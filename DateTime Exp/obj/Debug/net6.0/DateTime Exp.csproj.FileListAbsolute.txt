@@ -1,0 +1,15 @@
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\bin\Debug\net6.0\DateTime Exp.exe
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\bin\Debug\net6.0\DateTime Exp.deps.json
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\bin\Debug\net6.0\DateTime Exp.runtimeconfig.json
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\bin\Debug\net6.0\DateTime Exp.dll
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\bin\Debug\net6.0\DateTime Exp.pdb
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.csproj.AssemblyReference.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.AssemblyInfoInputs.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.AssemblyInfo.cs
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.csproj.CoreCompileInputs.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.dll
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\refint\DateTime Exp.dll
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.pdb
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\DateTime Exp.genruntimeconfig.cache
+C:\Users\luizs\OneDrive\Documentos\New\2º ano\3º bimestre 2\DateTime Exp\DateTime Exp\obj\Debug\net6.0\ref\DateTime Exp.dll
