@@ -59,3 +59,5 @@ else
 
 DateTime data6 = DateTime.Parse("26/09/2006");                   //Usa do .Parse para poder trocar a ordem do Ano, Mês e Dia
 Console.WriteLine(data6);
+
+DateOnly dto = DateOnly.Parse("26/09/2006");                     //Usa somente a data e tira o horário
